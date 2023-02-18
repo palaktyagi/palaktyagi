@@ -27,5 +27,3 @@ software solutions using a broad range of technologies and tools.
      - My Resume
      - About My projects.
      - My Achievements
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palaktyagi)](https://github.com/palaktyagi/github-readme-stats)
