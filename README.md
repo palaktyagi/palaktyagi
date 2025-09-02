@@ -10,6 +10,7 @@ management tools, and programming languages like JavaScript, TypeScript,angular,
 software solutions using a broad range of technologies and tools.
 
 - 🔭 Work Experience
+     - <p><em> Software Development Engineer at <a href="https://www.aboutamazon.com/about-us" target="_blank">Amazon</a></em></p>
      - <p><em> Software Engineer at <a href="https://www.adva.com/en" target="_blank">Adva Networking</a></em></p> 
      - <p><em> Software Developer at <a href="https://workex.jobs/" target="_blank">Workex</a></em></p>
      - <p><em> Software Devloper Intern at <a href="https://www.revoltronx.com/" target="_blank">Revoltronx Pvt. ltd.</a></em></p>
