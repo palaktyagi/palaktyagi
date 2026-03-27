@@ -20,12 +20,8 @@ software solutions using a broad range of technologies and tools.
 - 📫I’m looking forward to collaborate on projects of related skills.
 - 👯I like connectting with new people. 😄
 - ✨ How to reach me:
-    -  On my [website](https://palaktyagi.github.io/)
     -  [LinkedIn](https://www.linkedin.com/in/palak-tyagi-0722691a1/)
     -  [Email](tyagipalak121@gmail.com)
          
 ✨ Want to know more about me :
-  - On my [website](https://palaktyagi.github.io/) you can read:
-     - My Resume
-     - About My projects.
-     - My Achievements
+  - Visit my [website](https://palaktyagi.github.io/)
