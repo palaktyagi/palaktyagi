@@ -5,9 +5,9 @@
 
 # I'm Palak Tyagi
 ### Who I am
-I am an experienced and passionate software developer Proficient in front-end development, front-end frameworks and tools, version control and project
-management tools, and programming languages like JavaScript, TypeScript,angular, Dart, HTML5 and CSS3. Can build high-quality, scalable, and maintainable
-software solutions using a broad range of technologies and tools.
+I am an experienced and passionate software developer. Proficient in software development, frontend  development and frameworks, version control and project management tools. Currently, I am pursuing a Master’s in Software Engineering at San Jose State University.
+
+I have more than 2 years of industry experience. Throughout this, I worked in the telecommunications and recruiting domains, collaborating with a broad range of cutting-edge technologies to provide high-quality, scalable, and maintainable software solutions.
 
 - 🔭 Work Experience
      - <p><em> Software Development Engineer Intern at <a href="https://www.aboutamazon.com/about-us" target="_blank">Amazon</a></em></p>
