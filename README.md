@@ -24,4 +24,4 @@ software solutions using a broad range of technologies and tools.
     -  [Email](tyagipalak121@gmail.com)
          
 ✨ Want to know more about me :
-  - Visit my [website](https://palaktyagi.github.io/)
+  - Visit my [website](https://palaktyagi.github.io/) you can read more about me, my skills, more details about my experience and projects.
